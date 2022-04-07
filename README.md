@@ -1,4 +1,4 @@
-- 👋 Olá, eu sou o Rafael, Desenvolvedor da Nivy
+- 👋 Olá, eu sou o Rafael, Desenvolvedor de BOTs para o Discord
 - 
 - 
 -
